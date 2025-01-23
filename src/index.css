@@ -17,3 +17,8 @@
     border-color: var(--color-gray-200, currentColor);
   }
 }
+
+@theme {
+  --color-primary: #5771c3;
+  --color-primary-light: #00c4b4;
+}
